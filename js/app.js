@@ -6,6 +6,9 @@ function getAllTodos(){
         console.log(json)
         renderAllTodos(json)
     
+
+
+        
     } )
         
         
